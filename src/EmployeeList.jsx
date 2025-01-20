@@ -1,4 +1,3 @@
-// src/EmployeeList.jsx
 import React from 'react';
 import EmployeeAdd from './EmployeeAdd.jsx';
 import EmployeeFilter from './EmployeeFilter.jsx';
